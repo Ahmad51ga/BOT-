@@ -10,11 +10,11 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "𝐁𝐎𝐓 𝐓𝐮𝐚̂́𝐧 𝐃𝐞𝐞𝐩𝐓𝐫𝐲",
-    "PREFIX": "/",
+    "BOTNAME": "يآسمين",
+    "PREFIX": ".",
     "ADMINBOT": [
-        "1091264685",
-        "100069991370952"
+        "100019463832721",
+        ""
     ],
     "DATABASE": {
         "sqlite": {
