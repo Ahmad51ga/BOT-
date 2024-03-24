@@ -1,5 +1,2 @@
-{ pkgs, legacyPolygott }: {
-	deps = [
-		pkgs.bashInteractive
-	] ++ legacyPolygott;
-}
+run = "npm start"
+language = "bash"
